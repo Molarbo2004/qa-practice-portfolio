@@ -32,14 +32,13 @@
 - <img width="457" height="357" alt="image" src="https://github.com/user-attachments/assets/99a23a90-e60e-437f-b652-9b32fe0bd0cb" />
 
 
-### TC-04: Граничное значение — очень длинный email (300 символов)
-- **Ожидаемый результат:** Сервер корректно обрабатывает запрос или выдаёт понятную ошибку.
-
-### TC-05: Проверка типа поля "Password"
+### TC-04: Проверка типа поля "Password"
 - **Шаги:**
   1. Открыть форму
   2. Ввести пароль
 - **Ожидаемый результат:** Символы скрыты (`••••`), в HTML: `<input type="password">` (проверено через DevTools).
+- <img width="1540" height="425" alt="image" src="https://github.com/user-attachments/assets/7f029cd8-cae7-499c-8794-3b5aa0cd50ce" />
+
 
 ## Баг-репорт (гипотетический)
 
