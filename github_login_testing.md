@@ -20,6 +20,8 @@
   2. Ввести случайный пароль (например, "wrong123")
   3. Нажать "Sign in"
 - **Ожидаемый результат:** Сообщение "Incorrect username or password."
+- <img width="462" height="407" alt="image" src="https://github.com/user-attachments/assets/8f7350e5-d33d-410b-8c30-ca5025dcfaa9" />
+
 
 ### TC-03: Попытка входа с пустыми полями
 - **Шаги:**
